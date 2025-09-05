@@ -17,3 +17,10 @@ button {
     color: white;
     font-family: "Bai Jamjuree", sans-serif;
 }
+main {
+    max-width: 90%;
+    text-align: center;
+}
+img {
+    max-width: 90%;
+}
